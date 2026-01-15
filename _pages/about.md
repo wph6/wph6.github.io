@@ -20,6 +20,7 @@ redirect_from:
 I am Penghao Wang,
 I am currently working as a **research intern at the NUS HPC AI Lab**, under the supervision of  **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)**,  and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**,  **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 If you are interested in my work or want to collaborate, feel free to contact me via: penghao0930[at]gmail[dot]cn.
+
 <span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span>
 
 
@@ -31,7 +32,7 @@ If you are interested in my work or want to collaborate, feel free to contact me
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/rearchgpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows
@@ -39,7 +40,7 @@ If you are interested in my work or want to collaborate, feel free to contact me
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Ziheng Qin, Bangyuan Zhu, Shengbin Huang, Xuanlei Zhao, Panpan Zhang, Xiaojiang Peng, Yuzhang Shang, Jianfei Yang, Zheng Zhu, Tianlong Chen, Zhangyang Wang, Kai Wang
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/cab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
@@ -47,7 +48,7 @@ If you are interested in my work or want to collaborate, feel free to contact me
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fhbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare
