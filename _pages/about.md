@@ -18,11 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Penghao Wang,
-I am currently working as a **research intern at the NUS HPC AI Lab**, under the supervision of  
-**[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)**,  
-and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**,  
-**[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**,  
-and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
+I am currently working as a **research intern at the NUS HPC AI Lab**, under the supervision of  **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)**,  and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**,  **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 <span style="color: red;">I am actively seeking **Ph.D. positions** starting in Fall 2026.</span>
 
 
@@ -70,6 +66,4 @@ and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 -->
 
 # 💻 Experience
-- *2025.02 – now*, **National University of Singapore** — *Research Intern*, Mentor: Yang You. Advisor: **[Kai Wang](https://kaiwang960112.github.io/)**,  
-**[Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**,  
-and **[Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
+- *2025.02 – now*, **National University of Singapore** — *Research Intern*, Mentor: [Yang You](https://www.comp.nus.edu.sg/~youy/). Advisor: **[Kai Wang](https://kaiwang960112.github.io/)**, **[Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**,  and **[Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
