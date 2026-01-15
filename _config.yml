@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Penghao's Homepage"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "wph6/wph6.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wph6"
+  github           : "wph6"
   google_plus      :
   keybase          :
   instagram        :
