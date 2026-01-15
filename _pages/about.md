@@ -37,6 +37,7 @@ I am currently working as a **research intern at the NUS HPC AI Lab**, under the
 
 [ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows
 ](https://arxiv.org/pdf/2510.20279)
+
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Ziheng Qin, Bangyuan Zhu, Shengbin Huang, Xuanlei Zhao, Panpan Zhang, Xiaojiang Peng, Yuzhang Shang, Jianfei Yang, Zheng Zhu, Tianlong Chen, Zhangyang Wang, Kai Wang
 </div></div>
 
@@ -45,6 +46,7 @@ I am currently working as a **research intern at the NUS HPC AI Lab**, under the
 
 [Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
 ](https://arxiv.org/pdf/2510.19266)
+
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang
 </div></div>
 
@@ -53,6 +55,7 @@ I am currently working as a **research intern at the NUS HPC AI Lab**, under the
 
 [FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare
 ](https://arxiv.org/pdf/2504.10817)
+
 **Penghao Wang**, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen
 </div></div>
 
