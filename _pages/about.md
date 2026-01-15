@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# ✨ About Me
 I am Penghao Wang,
 I am currently working as a **research intern at the NUS HPC AI Lab**, under the supervision of  **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)**,  and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**,  **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 If you are interested in my work or want to collaborate, feel free to contact me via: penghao0930[at]gmail[dot]cn.
@@ -55,6 +56,7 @@ If you are interested in my work or want to collaborate, feel free to contact me
 ](https://arxiv.org/pdf/2504.10817)
 **Penghao Wang**, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen
 </div></div>
+
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
