@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✨ About Me
-I am Penghao Wang, a final-year M.S. student in Pattern Recognition and Intelligent Systems at the Institute of Automation, Chinese Academy of Sciences (CASIA), University of Chinese Academy of Sciences (UCAS).
+I am Penghao Wang, a final-year M.S. student in Pattern Recognition and Intelligent Systems at the Institute of Automation, Chinese Academy of Sciences (CASIA).
 
 My research focuses on efficient AI systems, large language models, and parameter-space optimization. I have worked as a research intern at the [NUS HPC AI Lab](https://ai.comp.nus.edu.sg/), supervised by **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)** and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**, **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 
