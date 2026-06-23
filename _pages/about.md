@@ -54,8 +54,6 @@ I am currently working as a research intern at the [NUS HPC AI Lab](https://ai.c
 
 **Manuscript under review**
 
-*Under Review*
-
 **Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
 </div></div>
 
@@ -70,8 +68,8 @@ I am currently working as a research intern at the [NUS HPC AI Lab](https://ai.c
 
 # Background
 
-- ****, M.S. in , , 2023-2026 (expected). GPA: 3.86 / 4.0.
-- ****, B.E. in , 2019-2023. Honors include National First Prize in the National Undergraduate Electronic Design Contest, Ji'an First-Class Scholarship,  Outstanding Student, Academic Progress Award, and Science and Technology Innovation Award.
+- ****, M.S. in , , 2023-2026.
+- ****, B.E. in , 2019-2023.
 
 <!--
 # 🎖 Honors and Awards
