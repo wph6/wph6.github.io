@@ -71,7 +71,7 @@ Please feel free to contact me at penghao0930[at]gmail[dot]com for collaboration
 
 # Education
 
-- **University of Chinese Academy of Sciences (UCAS)**, M.S. in Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences (CASIA), 2023-2026.
+- **Institute of Automation, Chinese Academy of Sciences (CASIA)**, M.S. in Pattern Recognition and Intelligent Systems, 2023-2026.
 - **Tianjin University**, B.E. in Measurement and Control Technology and Instrumentation, 2019-2023.
 
 <!--
