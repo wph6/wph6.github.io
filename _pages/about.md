@@ -58,6 +58,23 @@ I am currently working as a research intern at the [NUS HPC AI Lab](https://ai.c
 **Penghao Wang**, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/private_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Manuscript under review**
+
+*Under Review*
+
+- Developed a non-contact thermal video framework for respiratory rate estimation in head-free common privates.
+- Studied a key limitation of ROI-based physiological sensing: visually successful tracking does not always produce valid respiratory signals.
+- Introduced STAR, a motion-aware training strategy that improves physiological signal recovery and reduces MAE from 20.76 bpm to 2.23 bpm.
+</div></div>
+
+# Background
+
+- ****, M.S. in , , 2023-2026 (expected). GPA: 3.86 / 4.0.
+- ****, B.E. in , 2019-2023. Honors include National First Prize in the National Undergraduate Electronic Design Contest, Ji'an First-Class Scholarship,  Outstanding Student, Academic Progress Award, and Science and Technology Innovation Award.
+
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

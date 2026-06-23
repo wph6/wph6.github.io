@@ -12,8 +12,8 @@ main:
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  # - title: "Background"
-  #   url: "/#-backgrounds"
+  - title: "Background"
+    url: "/#background"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
