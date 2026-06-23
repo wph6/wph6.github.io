@@ -65,9 +65,7 @@ I am currently working as a research intern at the [NUS HPC AI Lab](https://ai.c
 
 *Under Review*
 
-- Developed a non-contact thermal video framework for respiratory rate estimation in head-free common privates.
-- Studied a key limitation of ROI-based physiological sensing: visually successful tracking does not always produce valid respiratory signals.
-- Introduced STAR, a motion-aware training strategy that improves physiological signal recovery and reduces MAE from 20.76 bpm to 2.23 bpm.
+**Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
 </div></div>
 
 # Background
