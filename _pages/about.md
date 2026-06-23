@@ -66,9 +66,7 @@ If you are interested in my work or want to collaborate, feel free to contact me
 
 *WACV 2027 Under Review*
 
-- Developed a non-contact thermal video framework for respiratory rate estimation in head-free common marmosets.
-- Studied a key limitation of ROI-based physiological sensing: visually successful tracking does not always produce valid respiratory signals.
-- Introduced STAR, a motion-aware training strategy that improves physiological signal recovery and reduces MAE from 20.76 bpm to 2.23 bpm.
+**Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
 </div></div>
 
 # Education
