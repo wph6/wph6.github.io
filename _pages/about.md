@@ -50,12 +50,10 @@ If you are interested in my work or want to collaborate, feel free to contact me
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/wacv_marmo_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2027 Under Review</div><img src='images/wacv_marmo_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets**
-
-*WACV 2027 Under Review*
 
 **Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
 </div></div>
@@ -71,8 +69,8 @@ If you are interested in my work or want to collaborate, feel free to contact me
 
 # Education
 
-- **University of Chinese Academy of Sciences (UCAS)**, M.S. in Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences (CASIA), 2023-2026 (expected). GPA: 3.86 / 4.0.
-- **Tianjin University**, B.E. in Measurement and Control Technology and Instrumentation, 2019-2023. Honors include National First Prize in the National Undergraduate Electronic Design Contest, Ji'an First-Class Scholarship, Tianjin University Outstanding Student, Academic Progress Award, and Science and Technology Innovation Award.
+- **University of Chinese Academy of Sciences (UCAS)**, M.S. in Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences (CASIA), 2023-2026.
+- **Tianjin University**, B.E. in Measurement and Control Technology and Instrumentation, 2019-2023.
 
 <!--
 # 🎖 Honors and Awards
