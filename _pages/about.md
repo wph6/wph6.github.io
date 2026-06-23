@@ -71,7 +71,7 @@ Please feel free to contact me at  for collaboration or discussion.
 
 # Background
 
-- ****, M.S. in , , 2023-2026.
+- ****, M.S. in , 2023-2026.
 - ****, B.E. in , 2019-2023.
 
 <!--
