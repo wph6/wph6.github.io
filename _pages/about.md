@@ -59,6 +59,23 @@ If you are interested in my work or want to collaborate, feel free to contact me
 **Penghao Wang**, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/wacv_marmo_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets**
+
+*WACV 2027 Under Review*
+
+- Developed a non-contact thermal video framework for respiratory rate estimation in head-free common marmosets.
+- Studied a key limitation of ROI-based physiological sensing: visually successful tracking does not always produce valid respiratory signals.
+- Introduced STAR, a motion-aware training strategy that improves physiological signal recovery and reduces MAE from 20.76 bpm to 2.23 bpm.
+</div></div>
+
+# Education
+
+- **University of Chinese Academy of Sciences (UCAS)**, M.S. in Pattern Recognition and Intelligent Systems, Institute of Automation, Chinese Academy of Sciences (CASIA), 2023-2026 (expected). GPA: 3.86 / 4.0.
+- **Tianjin University**, B.E. in Measurement and Control Technology and Instrumentation, 2019-2023. Honors include National First Prize in the National Undergraduate Electronic Design Contest, Ji'an First-Class Scholarship, Tianjin University Outstanding Student, Academic Progress Award, and Science and Technology Innovation Award.
+
 <!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
