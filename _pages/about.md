@@ -55,7 +55,7 @@ Please feel free to contact me at penghao0930[at]gmail[dot]com for collaboration
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2027 Under Review</div><img src='images/wacv_marmo_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets**
+**Tracking Is Not Sensing: Artifact-Aware Thermal Video Respiration Estimation in Head-Free Marmosets**
 
 **Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
 </div></div>
