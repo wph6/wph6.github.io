@@ -43,7 +43,7 @@ Please feel free to contact me at  for collaboration or discussion.
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Ziheng Qin, Bangyuan Zhu, Shengbin Huang, Xuanlei Zhao, Panpan Zhang, Xiaojiang Peng, Yuzhang Shang, Jianfei Yang, Zheng Zhu, Tianlong Chen, Zhangyang Wang, Kai Wang
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cab.png?v=20260627c' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
