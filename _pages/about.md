@@ -22,8 +22,6 @@ I am Penghao Wang.
 
 My research focuses on efficient AI systems, large language models, and parameter-space optimization. I have worked as a research intern at the [NUS HPC AI Lab](https://ai.comp.nus.edu.sg/), supervised by **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)** and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**, **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 
-Please feel free to contact me at  for collaboration or discussion.
-
 <span style="color: red;">I am actively seeking Ph.D. opportunities for Spring/Fall 2027 admission.</span>
 
 <!--
@@ -52,14 +50,6 @@ Please feel free to contact me at  for collaboration or discussion.
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/private_overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Manuscript under review**
-
-**Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fhbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,26 +58,3 @@ Please feel free to contact me at  for collaboration or discussion.
 
 **Penghao Wang**, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen
 </div></div>
-
-# Background
-
-- ****, M.S. in , 2023-2026.
-- ****, B.E. in , 2019-2023.
-
-<!--
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Background
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
-
-# 💻 Experience
-- *2025.02 – 2026.02*, **National University of Singapore** — *Research Intern*, Mentor: [Yang You](https://www.comp.nus.edu.sg/~youy/). Advisor: **[Kai Wang](https://kaiwang960112.github.io/)**, **[Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**,  and **[Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
-- *2024.04 – 2024.07*, **** — *Research Intern*, Advisor: **[Wang Lu](https://scholar.google.com/citations?user=7OzlbvIAAAAJ&hl=en)**.

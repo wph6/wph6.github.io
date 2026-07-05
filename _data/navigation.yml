@@ -12,11 +12,5 @@ main:
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  - title: "Background"
-    url: "/#background"
-
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
-
-  - title: "Experience"
-    url: "/#-experience"
