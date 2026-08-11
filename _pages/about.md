@@ -20,7 +20,7 @@ redirect_from:
 # ✨ About Me
 I am Penghao Wang.
 
-My research focuses on efficient AI systems, large language models, and parameter-space optimization. I have worked as a research intern at the [NUS HPC AI Lab](https://ai.comp.nus.edu.sg/), supervised by **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)** and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**, **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
+My research focuses on efficient AI systems, large language models, world models, and parameter-space optimization. I have worked as a research intern at the [NUS HPC AI Lab](https://ai.comp.nus.edu.sg/), supervised by **[Prof. Yang You](https://www.comp.nus.edu.sg/~youy/)** and advised by **[Dr. Kai Wang](https://kaiwang960112.github.io/)**, **[Dr. Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Dr. Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 
 <span style="color: red;">I am actively seeking Ph.D. opportunities for Spring/Fall 2027 admission.</span>
 
