@@ -73,5 +73,11 @@ B.E. in Measurement and Control Technology and Instrumentation, 2019-2023
 
 # 💼 Internships
 
-**NUS HPC AI Lab**<br>
-Research Intern
+**Shanghai Jiao Tong University**, Research Intern | Jul. 2026 - Present<br>
+School of Artificial Intelligence. Advisor: [Yibo Yang](https://iboing.github.io/). Working on continual learning for world models.
+
+**National University of Singapore**, Research Intern | Feb. 2025 - Feb. 2026<br>
+Mentor: [Yang You](https://www.comp.nus.edu.sg/~youy/). Advisors: [Kai Wang](https://kaiwang960112.github.io/), [Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN), and [Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/).
+
+**Qiyuan Lab**, Research Intern | Apr. 2024 - Jul. 2024<br>
+Advisor: [Wang Lu](https://scholar.google.com/citations?user=7OzlbvIAAAAJ&hl=en).
