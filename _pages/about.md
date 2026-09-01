@@ -74,5 +74,5 @@ B.E. in Measurement and Control Technology and Instrumentation, 2019-2023
 # 💻 Internships
 
 - *2026.07 – Present*, **Shanghai Jiao Tong University** — *Research Intern*, School of Artificial Intelligence. Advisor: **[Yibo Yang](https://iboing.github.io/)**.
-- *2025.02 – 2026.02*, **National University of Singapore** — *Research Intern*, Mentor: [Yang You](https://www.comp.nus.edu.sg/~youy/). Advisors: **[Kai Wang](https://kaiwang960112.github.io/)**, **[Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, and **[Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
+- *2025.02 – 2026.02*, **National University of Singapore** — *Research Intern*, Mentor: [Yang You](https://www.comp.nus.edu.sg/~youy/). Advisors: **[Kai Wang](https://kaiwang960112.github.io/)**, **[Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, **[Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
 - *2024.04 – 2024.07*, **Qiyuan Lab** — *Research Intern*, Advisor: **[Wang Lu](https://scholar.google.com/citations?user=7OzlbvIAAAAJ&hl=en)**.
