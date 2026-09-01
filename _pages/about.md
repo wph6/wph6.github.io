@@ -24,6 +24,23 @@ My research focuses on world models and efficient AI systems. I am currently wor
 
 <span style="color: red;">I am actively seeking Ph.D. opportunities for Spring/Fall 2027 admission.</span>
 
+<span class='anchor' id='education'></span>
+
+# 🎓 Education
+
+**Institute of Automation, Chinese Academy of Sciences (CASIA)**<br>
+M.S. in Pattern Recognition and Intelligent Systems, 2023-2026
+
+**Tianjin University**<br>
+B.E. in Measurement and Control Technology and Instrumentation, 2019-2023
+
+<span class='anchor' id='internships'></span>
+
+# 💼 Internships
+
+**NUS HPC AI Lab**<br>
+Research Intern
+
 <!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
