@@ -20,6 +20,8 @@ redirect_from:
 # ✨ About Me
 I am Penghao Wang.
 
+I received my B.E. degree from Tianjin University in 2023 and my M.S. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2026.
+
 My research focuses on world models and efficient AI systems. I am currently working on continual learning for world models.
 
 <span style="color: red;">I am actively seeking Ph.D. opportunities for Spring/Fall 2027 admission.</span>
