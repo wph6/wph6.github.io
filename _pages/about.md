@@ -50,6 +50,14 @@ My research focuses on world models and efficient AI systems. I am currently wor
 **Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/marmoset_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets**
+
+**Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fhbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
