@@ -25,7 +25,7 @@ redirect_from:
     <img src="{{ site.author.avatar | relative_url }}" alt="An illustrated scene of learning and imagining beneath a starry sky" width="1254" height="1254" fetchpriority="high">
     <figcaption>{{ site.author.location }}</figcaption>
   </figure>
-  <p class="phd-notice"><span class="notice-label">Ph.D. Opportunities</span><span>I am actively seeking Ph.D. opportunities for <strong>Spring/Fall 2027</strong> admission.</span></p>
+  <p class="phd-notice"><span>I am actively seeking Ph.D. opportunities for <strong>Spring/Fall 2027</strong> admission.</span></p>
 </section>
 
 <section class="content-section publications" id="-publications" aria-labelledby="publications-title">
