@@ -34,13 +34,13 @@ redirect_from:
   </div>
   <div class="publication-list">
     <article class="publication">
-      <button class="paper-figure" type="button" data-figure="{{ '/images/marmoset_overview.png' | relative_url }}" data-title="Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets" aria-label="Enlarge figure: Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets" aria-haspopup="dialog" title="Enlarge figure">
+      <button class="paper-figure" type="button" data-figure="{{ '/images/marmoset_overview.png' | relative_url }}" data-title="Tracking Is Not Sensing: Artifact-Aware Thermal Video Respiration Estimation in Head-Free Marmosets" aria-label="Enlarge figure: Tracking Is Not Sensing: Artifact-Aware Thermal Video Respiration Estimation in Head-Free Marmosets" aria-haspopup="dialog" title="Enlarge figure">
         <img src="{{ '/images/marmoset_overview.png' | relative_url }}" alt="Overview of thermal video acquisition, tracking artifacts, and robust respiration estimation in marmosets" width="2125" height="615" loading="lazy">
         <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
       </button>
       <div class="paper-content">
         <div class="paper-meta"><span class="venue venue-accepted">WACV 2027</span></div>
-        <h3>Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets</h3>
+        <h3>Tracking Is Not Sensing: Artifact-Aware Thermal Video Respiration Estimation in Head-Free Marmosets</h3>
         <p class="paper-authors"><strong>Penghao Wang</strong>, Sen Yang, Fenghua Xie, He Wang, Xindong Song</p>
       </div>
     </article>
@@ -75,7 +75,7 @@ redirect_from:
         <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
       </button>
       <div class="paper-content">
-        <div class="paper-meta"><span class="venue">Preprint</span><a class="paper-link" href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a><a class="paper-link" href="https://github.com/wph6/FHBench" target="_blank" rel="noopener noreferrer">Project <i class="brand-icon icon-github" aria-hidden="true"></i></a></div>
+        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a><a class="paper-link" href="https://github.com/wph6/FHBench" target="_blank" rel="noopener noreferrer">Project <i class="brand-icon icon-github" aria-hidden="true"></i></a></div>
         <h3><a href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare</a></h3>
         <p class="paper-authors"><strong>Penghao Wang</strong>, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen</p>
       </div>
