@@ -21,7 +21,7 @@ redirect_from:
     </div>
   </div>
   <figure class="profile-art">
-    <img src="{{ site.author.avatar | relative_url }}" alt="An illustrated scene of learning and imagining beneath a starry sky" width="1254" height="1254" fetchpriority="high">
+    <img src="{{ site.author.avatar | relative_url }}" alt="Illustrated portrait of Penghao Wang" width="1254" height="1254" fetchpriority="high">
     <figcaption>{{ site.author.location }}</figcaption>
   </figure>
   <p class="phd-notice"><span>I am actively seeking Ph.D. opportunities for <strong>Spring/Fall 2027</strong> admission.</span></p>
