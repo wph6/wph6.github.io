@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.author.name }} | Research</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <meta name="theme-color" content="#ffffff">
+    <meta property="og:title" content="{{ site.author.name }} | Research">
+    <meta property="og:description" content="{{ site.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{{ '/images/head.jpg' | absolute_url }}">
+    <link rel="canonical" href="{{ '/' | absolute_url }}">
+    <link rel="icon" href="{{ '/images/favicon.ico?v=20260705' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png?v=20260705' | relative_url }}">
+    <link rel="manifest" href="{{ '/images/site.webmanifest?v=20260705' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/home.css?v=20261024' | relative_url }}">
+    <script src="{{ '/assets/js/home.js?v=20261024' | relative_url }}" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="wordmark" href="#about-me" aria-label="Penghao Wang, back to introduction">Penghao Wang<span aria-hidden="true">.</span></a>
+        <nav class="site-nav" aria-label="Main navigation">
+          {% for link in site.data.navigation.main %}
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="site-main">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author.name }}</p>
+        <a class="back-to-top" href="#about-me">Back to top <i class="icon icon-arrow-up" aria-hidden="true"></i></a>
+      </div>
+    </footer>
+    <dialog class="figure-dialog" aria-labelledby="figure-title">
+      <div class="figure-dialog-header">
+        <p id="figure-title"></p>
+        <button class="icon-button" type="button" aria-label="Close figure" title="Close figure" data-close-figure><i class="icon icon-close" aria-hidden="true"></i></button>
+      </div>
+      <img class="figure-dialog-image" alt="">
+    </dialog>
+  </body>
+</html>

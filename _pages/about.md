@@ -1,88 +1,141 @@
 ---
+layout: home
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
+title: "Penghao Wang"
+description: "Research on world models, continual learning, and efficient AI systems."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section class="intro" id="about-me" aria-labelledby="intro-title">
+  <div class="intro-copy">
+    <p class="eyebrow">World Models &amp; Efficient AI</p>
+    <h1 id="intro-title">Penghao Wang</h1>
+    <p class="research-focus">My research focuses on <strong>world models</strong> and <strong>efficient AI systems</strong>. I am currently working on continual learning for world models.</p>
+    <p class="background">I received my B.E. degree from Tianjin University in 2023 and my M.S. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2026.</p>
+    <div class="contact-links" aria-label="Contact and academic profiles">
+      <a href="mailto:{{ site.author.email }}"><i class="icon icon-mail" aria-hidden="true"></i><span>Email</span></a>
+      <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="icon icon-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer"><i class="brand-icon icon-github" aria-hidden="true"></i><span>GitHub</span></a>
+    </div>
+  </div>
+  <figure class="profile-art">
+    <img src="{{ site.author.avatar | relative_url }}" alt="An illustrated scene of learning and imagining beneath a starry sky" width="1254" height="1254" fetchpriority="high">
+    <figcaption>{{ site.author.location }}</figcaption>
+  </figure>
+  <p class="phd-notice"><span class="notice-label">Ph.D. Opportunities</span><span>I am actively seeking Ph.D. opportunities for <strong>Spring/Fall 2027</strong> admission.</span></p>
+</section>
 
-<span class='anchor' id='about-me'></span>
+<section class="content-section publications" id="-publications" aria-labelledby="publications-title">
+  <div class="section-heading">
+    <h2 id="publications-title">Publications</h2>
+    <span class="section-index" aria-hidden="true">01 / Research</span>
+  </div>
+  <div class="publication-list">
+    <article class="publication">
+      <button class="paper-figure" type="button" data-figure="{{ '/images/marmoset_overview.png' | relative_url }}" data-title="Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets" aria-label="Enlarge figure: Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets" aria-haspopup="dialog" title="Enlarge figure">
+        <img src="{{ '/images/marmoset_overview.png' | relative_url }}" alt="Overview of thermal video acquisition, tracking artifacts, and robust respiration estimation in marmosets" width="2125" height="615" loading="lazy">
+        <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
+      </button>
+      <div class="paper-content">
+        <div class="paper-meta"><span class="venue venue-accepted">WACV 2027</span></div>
+        <h3>Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets</h3>
+        <p class="paper-authors"><strong>Penghao Wang</strong>, Sen Yang, Fenghua Xie, He Wang, Xindong Song</p>
+      </div>
+    </article>
 
-# ✨ About Me
-I am Penghao Wang.
+    <article class="publication">
+      <button class="paper-figure" type="button" data-figure="{{ '/images/rearchgpt.png' | relative_url }}" data-title="ResearchGPT" aria-label="Enlarge figure: ResearchGPT" aria-haspopup="dialog" title="Enlarge figure">
+        <img src="{{ '/images/rearchgpt.png' | relative_url }}" alt="ResearchGPT framework for end-to-end computer science research workflows" width="1095" height="485" loading="lazy">
+        <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
+      </button>
+      <div class="paper-content">
+        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2510.20279" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <h3><a href="https://arxiv.org/pdf/2510.20279" target="_blank" rel="noopener noreferrer">ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows</a></h3>
+        <p class="paper-authors"><strong>Penghao Wang</strong>, Yuhao Zhou, Mengxuan Wu, Ziheng Qin, Bangyuan Zhu, Shengbin Huang, Xuanlei Zhao, Panpan Zhang, Xiaojiang Peng, Yuzhang Shang, Jianfei Yang, Zheng Zhu, Tianlong Chen, Zhangyang Wang, Kai Wang</p>
+      </div>
+    </article>
 
-I received my B.E. degree from Tianjin University in 2023 and my M.S. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2026.
+    <article class="publication">
+      <button class="paper-figure" type="button" data-figure="{{ '/images/cab.png?v=20260627c' | relative_url }}" data-title="Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge" aria-label="Enlarge figure: Attention Bridge" aria-haspopup="dialog" title="Enlarge figure">
+        <img src="{{ '/images/cab.png?v=20260627c' | relative_url }}" alt="Attention Bridge architecture for Transformer-to-Mamba distillation" width="1320" height="696" loading="lazy">
+        <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
+      </button>
+      <div class="paper-content">
+        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2510.19266" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <h3><a href="https://arxiv.org/pdf/2510.19266" target="_blank" rel="noopener noreferrer">Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge</a></h3>
+        <p class="paper-authors"><strong>Penghao Wang</strong>, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang</p>
+      </div>
+    </article>
 
-My research focuses on world models and efficient AI systems. I am currently working on continual learning for world models.
+    <article class="publication">
+      <button class="paper-figure" type="button" data-figure="{{ '/images/fhbench.png' | relative_url }}" data-title="FHBench" aria-label="Enlarge figure: FHBench" aria-haspopup="dialog" title="Enlarge figure">
+        <img src="{{ '/images/fhbench.png' | relative_url }}" alt="FHBench overview for efficient and personalized federated learning in multimodal healthcare" width="3381" height="1266" loading="lazy">
+        <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
+      </button>
+      <div class="paper-content">
+        <div class="paper-meta"><span class="venue">Preprint</span><a class="paper-link" href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <h3><a href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare</a></h3>
+        <p class="paper-authors"><strong>Penghao Wang</strong>, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-<span style="color: red;">I am actively seeking Ph.D. opportunities for Spring/Fall 2027 admission.</span>
+<section class="content-section" id="education" aria-labelledby="education-title">
+  <div class="section-heading">
+    <h2 id="education-title">Education</h2>
+    <span class="section-index" aria-hidden="true">02 / Background</span>
+  </div>
+  <div class="experience-list">
+    <article class="experience">
+      <p class="experience-date">2023 &ndash; 2026</p>
+      <div class="experience-content">
+        <h3>Institute of Automation, Chinese Academy of Sciences <span>(CASIA)</span></h3>
+        <p>M.S. in Pattern Recognition and Intelligent Systems</p>
+      </div>
+    </article>
+    <article class="experience">
+      <p class="experience-date">2019 &ndash; 2023</p>
+      <div class="experience-content">
+        <h3>Tianjin University</h3>
+        <p>B.E. in Measurement and Control Technology and Instrumentation</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-<!--
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2027</div><img src='images/marmoset_overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Thermal Video Respiratory Rate Estimation in Head-Free Marmosets**
-
-**Penghao Wang**, Sen Yang, Fenghua Xie, He Wang, Xindong Song
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/rearchgpt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows
-](https://arxiv.org/pdf/2510.20279)
-
-**Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Ziheng Qin, Bangyuan Zhu, Shengbin Huang, Xuanlei Zhao, Panpan Zhang, Xiaojiang Peng, Yuzhang Shang, Jianfei Yang, Zheng Zhu, Tianlong Chen, Zhangyang Wang, Kai Wang
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cab.png?v=20260627c' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
-](https://arxiv.org/pdf/2510.19266)
-
-**Penghao Wang**, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fhbench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare
-](https://arxiv.org/pdf/2504.10817)
-
-**Penghao Wang**, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen
-</div></div>
-
-<span class='anchor' id='education'></span>
-
-# 🎓 Education
-
-**Institute of Automation, Chinese Academy of Sciences (CASIA)**<br>
-M.S. in Pattern Recognition and Intelligent Systems, 2023-2026
-
-**Tianjin University**<br>
-B.E. in Measurement and Control Technology and Instrumentation, 2019-2023
-
-<span class='anchor' id='internships'></span>
-
-# 💻 Internships
-
-- *2026.07 – Present*, **Shanghai Jiao Tong University** — *Research Intern*, School of Artificial Intelligence. Advisor: **[Yibo Yang](https://iboing.github.io/)**.
-- *2025.02 – 2026.02*, **National University of Singapore** — *Research Intern*, Mentor: [Yang You](https://www.comp.nus.edu.sg/~youy/). Advisors: **[Kai Wang](https://kaiwang960112.github.io/)**, **[Yuhao Zhou](https://scholar.google.com/citations?user=bGKF2tUAAAAJ&hl=zh-CN)**, **[Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/)**.
-- *2024.04 – 2024.07*, **Qiyuan Lab** — *Research Intern*, Advisor: **[Wang Lu](https://scholar.google.com/citations?user=7OzlbvIAAAAJ&hl=en)**.
+<section class="content-section" id="internships" aria-labelledby="internships-title">
+  <div class="section-heading">
+    <h2 id="internships-title">Internships</h2>
+    <span class="section-index" aria-hidden="true">03 / Experience</span>
+  </div>
+  <div class="experience-list">
+    <article class="experience">
+      <p class="experience-date">2026.07 &ndash; Present</p>
+      <div class="experience-content">
+        <h3>Shanghai Jiao Tong University</h3>
+        <p class="experience-role">Research Intern <span aria-hidden="true">&middot;</span> School of Artificial Intelligence</p>
+        <p class="experience-advisors">Advisor: <a href="https://iboing.github.io/" target="_blank" rel="noopener noreferrer">Yibo Yang</a></p>
+      </div>
+    </article>
+    <article class="experience">
+      <p class="experience-date">2025.02 &ndash; 2026.02</p>
+      <div class="experience-content">
+        <h3>National University of Singapore</h3>
+        <p class="experience-role">Research Intern</p>
+        <p class="experience-advisors">Mentor: <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank" rel="noopener noreferrer">Yang You</a>. Advisors: <a href="https://kaiwang960112.github.io/" target="_blank" rel="noopener noreferrer">Kai Wang</a>, <a href="https://scholar.google.com/citations?user=bGKF2tUAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener noreferrer">Yuhao Zhou</a>, <a href="https://henryqin1997.github.io/ziheng_qin/" target="_blank" rel="noopener noreferrer">Ziheng Qin</a>.</p>
+      </div>
+    </article>
+    <article class="experience">
+      <p class="experience-date">2024.04 &ndash; 2024.07</p>
+      <div class="experience-content">
+        <h3>Qiyuan Lab</h3>
+        <p class="experience-role">Research Intern</p>
+        <p class="experience-advisors">Advisor: <a href="https://scholar.google.com/citations?user=7OzlbvIAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Wang Lu</a></p>
+      </div>
+    </article>
+  </div>
+</section>
