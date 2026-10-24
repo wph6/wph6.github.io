@@ -51,7 +51,7 @@ redirect_from:
         <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
       </button>
       <div class="paper-content">
-        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2510.20279" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2510.20279" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a><a class="paper-link" href="https://github.com/wph6/ResearchGPT" target="_blank" rel="noopener noreferrer">Project <i class="brand-icon icon-github" aria-hidden="true"></i></a></div>
         <h3><a href="https://arxiv.org/pdf/2510.20279" target="_blank" rel="noopener noreferrer">ResearchGPT: Benchmarking and Training LLMs for End-to-End Computer Science Research Workflows</a></h3>
         <p class="paper-authors"><strong>Penghao Wang</strong>, Yuhao Zhou, Mengxuan Wu, Ziheng Qin, Bangyuan Zhu, Shengbin Huang, Xuanlei Zhao, Panpan Zhang, Xiaojiang Peng, Yuzhang Shang, Jianfei Yang, Zheng Zhu, Tianlong Chen, Zhangyang Wang, Kai Wang</p>
       </div>
@@ -63,7 +63,7 @@ redirect_from:
         <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
       </button>
       <div class="paper-content">
-        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2510.19266" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <div class="paper-meta"><span class="venue">Under Review</span><a class="paper-link" href="https://arxiv.org/pdf/2510.19266" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a><a class="paper-link" href="https://github.com/wph6/CAB" target="_blank" rel="noopener noreferrer">Project <i class="brand-icon icon-github" aria-hidden="true"></i></a></div>
         <h3><a href="https://arxiv.org/pdf/2510.19266" target="_blank" rel="noopener noreferrer">Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge</a></h3>
         <p class="paper-authors"><strong>Penghao Wang</strong>, Yuhao Zhou, Mengxuan Wu, Panpan Zhang, Zhangyang Wang, Kai Wang</p>
       </div>
@@ -75,7 +75,7 @@ redirect_from:
         <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
       </button>
       <div class="paper-content">
-        <div class="paper-meta"><span class="venue">Preprint</span><a class="paper-link" href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <div class="paper-meta"><span class="venue">Preprint</span><a class="paper-link" href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a><a class="paper-link" href="https://github.com/wph6/FHBench" target="_blank" rel="noopener noreferrer">Project <i class="brand-icon icon-github" aria-hidden="true"></i></a></div>
         <h3><a href="https://arxiv.org/pdf/2504.10817" target="_blank" rel="noopener noreferrer">FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare</a></h3>
         <p class="paper-authors"><strong>Penghao Wang</strong>, Qian Chen, Teng Zhang, Yingwei Zhang, Wang Lu, Yiqiang Chen</p>
       </div>
