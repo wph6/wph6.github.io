@@ -12,7 +12,7 @@ redirect_from:
 <section class="intro" id="about-me" aria-labelledby="intro-title">
   <div class="intro-copy">
     <h1 id="intro-title">Penghao Wang</h1>
-    <p class="research-focus">My research focuses on <strong>world models</strong> and <strong>efficient AI</strong>. I am currently working on continual learning for world models.</p>
+    <p class="research-focus">My research focuses on <strong>world models</strong> and <strong>efficient AI</strong>. I am currently working on continual learning for video world models.</p>
     <p class="background">I received my B.E. degree from Tianjin University in 2023 and my M.S. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2026.</p>
     <div class="contact-links" aria-label="Contact and academic profiles">
       <a href="mailto:{{ site.author.email }}"><i class="icon icon-mail" aria-hidden="true"></i><span>Email</span></a>
