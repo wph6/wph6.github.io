@@ -39,8 +39,8 @@ redirect_from:
         <span class="figure-zoom" aria-hidden="true"><i class="icon icon-expand"></i></span>
       </button>
       <div class="paper-content">
-        <div class="paper-meta"><span class="venue venue-accepted">WACV 2027</span></div>
-        <h3>Tracking Is Not Sensing: Artifact-Aware Thermal Video Respiration Estimation in Head-Free Marmosets</h3>
+        <div class="paper-meta"><span class="venue venue-accepted">WACV 2027</span><a class="paper-link" href="https://arxiv.org/abs/2610.33661" target="_blank" rel="noopener noreferrer">Paper <i class="icon icon-external" aria-hidden="true"></i></a></div>
+        <h3><a href="https://arxiv.org/abs/2610.33661" target="_blank" rel="noopener noreferrer">Tracking Is Not Sensing: Artifact-Aware Thermal Video Respiration Estimation in Head-Free Marmosets</a></h3>
         <p class="paper-authors"><strong>Penghao Wang</strong>, Sen Yang, Fenghua Xie, He Wang, Xindong Song</p>
       </div>
     </article>
