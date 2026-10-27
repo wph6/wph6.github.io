@@ -90,6 +90,7 @@ h2 { font: 31px/1.25 var(--serif); font-weight: 400; }
 .paper-content { min-width: 0; }
 .paper-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; min-height: 28px; margin-bottom: 9px; }
 .venue { color: var(--muted); font-size: 12px; text-transform: uppercase; font-weight: 600; }
+.venue-preprint { padding: 2px 7px; border: 1px solid var(--line); border-radius: 3px; line-height: 1.65; }
 .venue-accepted { padding: 3px 7px; background: var(--accent-light); color: var(--accent); }
 .paper-link { display: inline-flex; align-items: center; gap: 6px; min-height: 28px; color: var(--accent); font-size: 13px; font-weight: 550; }
 .paper-link .icon, .paper-link .brand-icon { font-size: 10px; }
